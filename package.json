@@ -4,11 +4,10 @@
   "private": true,
   "scripts": {
   "dev": "next dev",
-  "build": "npx next build",
+  "build": "next build",
   "start": "next start",
   "lint": "next lint"
 }
-  },
   "dependencies": {
     "@types/canvas-confetti": "^1.9.0",
     "@types/three": "^0.185.4",
